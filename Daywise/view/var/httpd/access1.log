@@ -1,0 +1,4 @@
+10.56.10.2 - - [30/Oct/2019:16:08:27 +0000] "GET /robots.txt HTTP/1.1" 200 554 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" "66.249.79.45"
+10.56.10.2 - - [30/Oct/2019:16:08:27 +0000] "GET /ads.txt HTTP/1.1" 200 554 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" "66.249.79.45"
+10.56.0.3 - - [30/Oct/2019:18:38:45 +0000] "GET /robots.txt HTTP/1.1" 200 554 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" "66.249.79.48"
+10.56.46.2 - - [31/Oct/2019:06:45:26 +0000] "GET /wp-login.php HTTP/1.1" 200 554 "http://fundoopush-dev.bridgelabz.com/wp-login.php" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0" "104.248.217.125"
